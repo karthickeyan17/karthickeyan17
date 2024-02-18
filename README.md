@@ -9,8 +9,8 @@ Aspiring Python Developer with a focus on Artificial Intelligence and Machine Le
 <summary><strong>React-IPL_WEBSITE</strong></summary>
 <br>
 
-**webPage Link:** [React IPL CricketHub](https://karthickeyan17.github.io/IPL_CricketHub/)
-
+**webPage Link:** [React IPL CricketHub](https://karthickeyan17.github.io/IPL_CricketHub/)<br>
+[code](https://github.com/karthickeyan17/IPL_CricketHub)<br>
 **Project Description:**
 
 The React-IPL_WEBSITE is an interactive platform dedicated to the Indian Premier League (IPL), tailored for cricket enthusiasts. It provides a comprehensive experience for users interested in exploring IPL-related content, player statistics, ticket booking, and support services.
@@ -29,8 +29,8 @@ The React-IPL_WEBSITE is an interactive platform dedicated to the Indian Premier
 <summary><strong>React ToDo List Project</strong></summary>
 <br>
   
-**Project Link:** [React ToDo List Project](https://karthickeyan17.github.io/React-TaskManager/)
-  
+**Project Link:** [React ToDo List Project](https://karthickeyan17.github.io/React-TaskManager/)<br>
+[code](https://github.com/karthickeyan17/React-TaskManager)<br>
 **Project Description:**
 
 The React ToDo List project is a simple, user-friendly application designed to assist in organizing tasks and managing day-to-day activities. Built using React, it offers an intuitive interface allowing users to add, track, and remove tasks efficiently. The application focuses on essential functionalities, providing a clean and straightforward task management system. Users can add tasks, mark them as completed, and delete tasks as needed, facilitating a seamless experience for organizing daily tasks.
@@ -55,7 +55,7 @@ The React ToDo List project is a simple, user-friendly application designed to a
 <summary><strong>Sentiment Analysis on Social Media Comments (Romanized Text)</strong></summary>
 <br>
 
-**Project Link:** [Sentiment Analysis Project](https://colab.research.google.com/drive/1DkeVCJ9ySXfHV5J3FkqVx34q19PNmngl?usp=sharing)
+**Project Link:** [Sentiment Analysis Project](https://github.com/karthickeyan17/Sentiment_Analysis-Tamil_English-Romanized-Text)
 </details>
 
 <details>
