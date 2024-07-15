@@ -25,8 +25,6 @@
 </div>
 <br />
 
-## Leetcode
-![My Stats](https://leetcard.jacoblin.cool/karthickeyan_s?theme=wtf&font=Gruppo)
+## Leetcode                                                                             
+![My Stats](https://leetcard.jacoblin.cool/karthickeyan_s?theme=dark&font=Gruppo&ext=activity&width=700)  
 
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthickeyan17&layout=compact&theme=wtf)
