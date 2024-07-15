@@ -26,7 +26,7 @@
 <br />
 
 ## Leetcode
-![My Stats](https://leetcard.jacoblin.cool/karthickeyan_s?theme=nord&font=Gruppo)
+![My Stats](https://leetcard.jacoblin.cool/karthickeyan_s?theme=wtf&font=Gruppo)
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthickeyan17&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthickeyan17&layout=compact&theme=wtf)
