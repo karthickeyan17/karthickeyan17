@@ -12,7 +12,7 @@
   -----------------
   Name: Karthickeyan S
   Languages: ["Python", "Java", "C"]
-  Intrests: ["Machine Learning", "Deep Learning"]  
+  Interests: ["Machine Learning", "Deep Learning"]  
   Uptime: 20 Years
 
   📋 Projects:
