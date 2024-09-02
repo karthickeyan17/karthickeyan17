@@ -3,7 +3,7 @@
 ┌[Karthi@git]-(~)
 └> mefetch
 ```
- 
+
 
 <div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:250px;height:265px">
   
@@ -25,6 +25,7 @@
 </div>
 <br />
 
+
 ## Leetcode                                                                             
 ![My Stats](https://leetcard.jacoblin.cool/karthickeyan_s?theme=dark&font=Gruppo&ext=activity&width=700)  
-
+## ![Click me to get his resume](https://github.com/karthickeyan17/karthickeyan17/blob/main/My_Resume.pdf)
