@@ -28,4 +28,4 @@
 
 ## Leetcode                                                                             
 ![My Stats](https://leetcard.jacoblin.cool/karthickeyan_s?theme=dark&font=Gruppo&ext=activity&width=700)  
-## ![Click me to get his resume](https://github.com/karthickeyan17/karthickeyan17/blob/main/My_Resume.pdf)
+## ![Click here to get my resume](https://github.com/karthickeyan17/karthickeyan17/blob/main/My_Resume.pdf)
