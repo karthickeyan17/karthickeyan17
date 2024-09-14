@@ -1,4 +1,4 @@
-## A𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+## Aspiring python developer
 ```css
 ┌[Karthi@git]-(~)
 └> mefetch
